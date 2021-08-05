@@ -7,8 +7,8 @@ A SImple Server Stats Bot Made Using Python (Discord.py)
 
 ## ❓ How To Use
 - Add You Bot Token in `config.json`
-- add the guild ID in the 39th line inside `main.py`
-- add the channe ID in the 40th line inside `main.py`
+- add the guild ID in the **39th** line inside `main.py`
+- add the channe ID in the **40th** line inside `main.py`
 
 ## Things To Do
 - Fork This Repo
