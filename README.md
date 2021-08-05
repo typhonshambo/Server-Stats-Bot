@@ -14,4 +14,4 @@ A SImple Server Stats Bot Made Using Python (Discord.py)
 ## Things To Do
 - Fork This Repo
 - Star This Repo
-- Join [Devs Cafe](https://discord.gg/devscafe)
+- Join [Devs Cafe](https://discord.gg/devscafe) For a Better Bot
